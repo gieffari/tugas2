@@ -1,0 +1,20 @@
+
+         #edit {
+          font-family: "Arial", Arial, Arial, sans-serif;
+          border-collapse: collapse;
+          width: 50%;
+        }
+
+        #edit td, #edit th {
+          border: 1px solid #ddd;
+          padding: 8px;
+        }
+
+        #edit th {
+          padding-top: 12px;
+          padding-bottom: 12px;
+          text-align: left;
+          background-color: #5182e6;
+          color: white;
+        }
+        
